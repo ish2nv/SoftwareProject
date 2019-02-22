@@ -1,0 +1,8 @@
+What we should have after reviewing the competitors customer reviews
+
+Tangible augmented reality - for designing three dimensional AR + it supports seamless interaction between the real and virtual worlds, also provides a range of natural interactions that are hard to find in typical AR interfaces.
+Tracking markers - to define the scale and coordinates
+ARToolKit can be used to calculate 3D positions and orientations of the virtual furniture
+The AR application should determine the viewpoint of the user in the real world.
+This would be done relative to the physical markers
+Our main principles should be colour, scale and proportion in a determined space.
